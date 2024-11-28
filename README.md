@@ -52,3 +52,11 @@ Some non-functional requirements for a hotel booking management system include:
 - **Reliablity:** the system should be relaible and should allow more than 1 user to book the same hotel room.
 - **Secure:** the system should provide secure gateways for payment transactions.
 - **Performance** the system should process and handle user requests efficiently, with response times meeting or exceeding the specified performance benchmarks under typical and peak load conditions.
+
+## Use Case Diagrams.
+
+A use case diagram is a UML diagram that is used to show how users/actors interact with the system to achieve a given goal/use case.
+Use case diagrams are used to visually represent functional requirements of a system
+
+### use case diagram for a hotel booking system
+![Hotel booking use case diagram](./alx-booking-uc.png)
