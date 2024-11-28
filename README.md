@@ -28,3 +28,27 @@ The following list shows the key activities in the Requirement Analysis process:
 - **Requirement Analysis and Modeling** in this activity, the team usually categories and prioritizes requirements in order of their importance and need, also models and entity-relation diagrams are created to visualize and understand the requirements.
 
 - **Requirement Validation**: the goal of this activity is to review and validate the system requirements to ensure that they align with the stakeholder's needs and interests.
+
+## Types of Requirements
+
+There are two types of system requirements.
+
+### Functional Requiremnts
+
+Functional requirments describe what the system should do.
+Some functional requirements for a hotel booking management system include:
+
+- **Hotel listing:** the system should display the available hotels
+- **Searching:** the system should allow users to search for hotel rooms based on given criteria.
+- **Booking:** the system should allow registered users to book a hotel of their interest.
+- **View booking info:** the system should allow users to view booking information once they book a hotel room.
+- **Payment**:the system should allow users to pay for the duration that they to stay at a given hotel.
+
+### Non-functional Requiremnts
+
+Non-functional requirements describe how the system should perform.
+Some non-functional requirements for a hotel booking management system include:
+
+- **Reliablity:** the system should be relaible and should allow more than 1 user to book the same hotel room.
+- **Secure:** the system should provide secure gateways for payment transactions.
+- **Performance** the system should process and handle user requests efficiently, with response times meeting or exceeding the specified performance benchmarks under typical and peak load conditions.
